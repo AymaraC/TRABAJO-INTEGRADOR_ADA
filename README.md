@@ -1,6 +1,6 @@
 # 📚 Proyecto Integrador JavaScript: Sistema de Gestión de Biblioteca
 
-Este primer proyecto integrador del módulo de JavaScript. Permite gestionar un sistema de biblioteca en el que tenemos una estructura de datos tanto de los libros como de los usuarios. Esta información se define en una estructura de arrays donde cada usuario u libro va tener su ID único con el fin de prevenir inconvenientes. Mediante el ID podemos buscar libros, solicitar el préstamo del mismo o bien generar la devolución del mismo. 
+Este primer proyecto integrador del módulo de JavaScript nos permite gestionar un sistema de biblioteca en el que tenemos una estructura de datos tanto de los libros como de los usuarios. Esta información se define en una estructura de arrays donde cada usuario u libro va tener su ID único con el fin de prevenir inconvenientes. Mediante el ID podemos buscar libros, solicitar el préstamo del mismo o bien generar la devolución del mismo. 
 
 Los usuarios podrán interactuar con todas las funciones del nuestro programa desde la consola a través de un menú de opciones, donde podrán elegir si desean buscar, ordenar o borrar un libro.
 
