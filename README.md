@@ -85,7 +85,7 @@ function ordenarLibros(criterio) {
 }
 ```
 
-![Captura del programa](./images/ordenar-libros.png)
+![Captura del programa](./Images/ordenar-libros.png)
 
 
 
