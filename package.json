@@ -1,0 +1,23 @@
+{
+  "name": "trabajofinal_ada",
+  "version": "1.0.0",
+  "main": "Aymara_Cabanal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaraC/TRABAJO-INTEGRADOR_ADA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymaraC/TRABAJO-INTEGRADOR_ADA/issues"
+  },
+  "homepage": "https://github.com/AymaraC/TRABAJO-INTEGRADOR_ADA#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
